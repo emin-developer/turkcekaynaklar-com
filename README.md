@@ -155,7 +155,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Asp.Net Core Uygulamalarında Autofac Kullanımı](http://www.canertosuner.com/post/asp-net-core-uygulamalarinda-farkli-di-ioc-containerlar-nasil-kullanilir) - [Caner Tosuner](http://www.canertosuner.com)
 - [Teknik Muhabbetler #3 (CQRS)](https://medium.com/mobiroller-tech/teknik-muhabbetler-3-cqrs-dfc32f44280e) - [Furkan Güngör](https://furkan-dvlp.medium.com/)
 - [Hangfire Ve .Net/.Net Core Console App ile Currency Reporter](https://gcifguvercin.medium.com/hangfire-ve-net-net-core-console-app-ile-currency-reporter-5342764b0f0f) - [Gizem Cifgüvercin](https://gcifguvercin.medium.com)
-
+- [BtDersleri ASP.NET](https://www.btdersleri.com/)
 
 ### Arduino
 - [Arduino - Robotistan](https://maker.robotistan.com/kategori/arduino/)
@@ -522,6 +522,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - :movie_camera: [Node.js - HTML'den PDF Oluşturma](https://www.youtube.com/watch?v=C1LSXiV_Ldw) - [Sanalonyedi](https://www.youtube.com/channel/UCSCKbkedqGQHuU6IYNG6WSw)
 - :movie_camera: [Node.js - Debugging İşlemi - VS Code - Chrome](https://youtu.be/Gr46CZcEXTg) - [Sanalonyedi](https://www.youtube.com/channel/UCSCKbkedqGQHuU6IYNG6WSw)
 - :movie_camera: [Node.js Giriş](https://www.youtube.com/watch?v=dGlLoFbgmoM&list=PLHnI4uXxaT1Zd6GN-dDKB0auOBJA6BgwE) - [Ahmet Buğra Çakıcı](https://www.linkedin.com/in/ahmetbcakici)
+- :movie_camera: [Node.js dersleri başlangıç](https://www.youtube.com/playlist?list=PLDUOF2Be-kzm_8UxwfY0pKQqwPR5TOs0X) - [Bilgisayar Mühendisliği](https://www.youtube.com/c/BilgisayarM%C3%BChendisli%C4%9Fim)
 
 ### OpenSSL
 - [OpenSSL CA Kılavuzu](https://github.com/zekiunal/openssl-certificate-authority-guide)
