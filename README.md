@@ -155,7 +155,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Asp.Net Core Uygulamalarında Autofac Kullanımı](http://www.canertosuner.com/post/asp-net-core-uygulamalarinda-farkli-di-ioc-containerlar-nasil-kullanilir) - [Caner Tosuner](http://www.canertosuner.com)
 - [Teknik Muhabbetler #3 (CQRS)](https://medium.com/mobiroller-tech/teknik-muhabbetler-3-cqrs-dfc32f44280e) - [Furkan Güngör](https://furkan-dvlp.medium.com/)
 - [Hangfire Ve .Net/.Net Core Console App ile Currency Reporter](https://gcifguvercin.medium.com/hangfire-ve-net-net-core-console-app-ile-currency-reporter-5342764b0f0f) - [Gizem Cifgüvercin](https://gcifguvercin.medium.com)
--[BtDersleri ASP.NET](https://www.btdersleri.com/)
+- [BtDersleri ASP.NET](https://www.btdersleri.com/)
 
 ### Arduino
 - [Arduino - Robotistan](https://maker.robotistan.com/kategori/arduino/)
